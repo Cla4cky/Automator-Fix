@@ -5,7 +5,7 @@
 - 我们生成完app后需要到：系统设置--安全性与隐私--隐私--辅助功能（忘记中文什么意思了，就是左边第五个有小人图标的那个）,然后我们点击+这个图标，加上Automator和Finder！然后看第二步。
 
 ###2.
-- 如果需要配置服务的快捷键我们需要到：系统设置>键盘>快捷键，然后我们看左边第六个的服务，我们可以在这设置我们组件的快捷键，我们在Automator生成好后的组件是在：/Users/<user_name>/Library/Services/这个路径，（<user_name>这写你电脑的用户名，比如我的用户名是admin，那么我的完整路径就是：/Users/admin/Library/Services/。），系统的服务路径是：/System/Library/Services。
+- 需要配置服务的快捷键我们需要到：系统设置>键盘>快捷键，然后我们看左边第六个的服务，我们可以在这设置我们组件的快捷键，我们在Automator生成好后的组件是在：/Users/<user_name>/Library/Services/这个路径，（<user_name>这写你电脑的用户名，比如我的用户名是admin，那么我的完整路径就是：/Users/admin/Library/Services/。），系统的服务路径是：/System/Library/Services。
 - 如果还找不到你生成的服务的话，我会上传一个类似win下快速查找文件路径的软件到github上。
 
 ###3.
